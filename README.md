@@ -7,7 +7,7 @@
 
 - 🚀 I recently completed [AFG SHIPPING](http://latest.afgglobalshipping.com/)
 
-- 🌱 I’m currently learning **Vue.js, React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **innovative frontend projects**
 

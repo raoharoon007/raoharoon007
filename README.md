@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- SYSTEM BOOT — RAO MUHAMMAD HAROON // FRONTEND Developer v2.0.25          -->
+<!-- SYSTEM BOOT — RAO MUHAMMAD HAROON // FRONTEND DEVELOPER v2.0.25          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=80&lines=RAO+MUHAMMAD+HAROON;FRONTEND+ENGINEER" alt="Name Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=80&lines=RAO+MUHAMMAD+HAROON;FRONTEND+DEVELOPER" alt="Name Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F5A623&center=true&vCenter=true&width=700&height=45&lines=React.js+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Building+interfaces+that+think+%26+perform" alt="Stack Tagline" />
 

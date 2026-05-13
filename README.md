@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- SYSTEM BOOT — RAO MUHAMMAD HAROON // FRONTEND ENGINEER v2.0.25          -->
+<!-- SYSTEM BOOT — RAO MUHAMMAD HAROON // FRONTEND Developer v2.0.25          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -283,7 +283,7 @@ Frontend module for a shipping management platform built during my internship.
 - 🔄 Contributed to a **multi-module logistics frontend**
 - 🧩 Component-driven architecture with **Vue.js**
 - 🤝 Developed in a collaborative, agile sprint workflow
-
+ [**View Project →**]([https://afgshipping.com/])
 ---
 
 ### `[04]` 📄 Document Classification using OCR *(Final Year Project)*
@@ -414,21 +414,3 @@ An intelligent document processing system that automatically classifies scanned 
 </div>
 
 ---
-
-## 🧬 How This Profile Was Generated
-
-This GitHub profile README was generated using **AI-based structuring and developer branding engineering**.
-
-| Property | Detail |
-|---|---|
-| 🤖 AI Engine | Claude (Anthropic) |
-| 📄 Source Data | Rao Haroon's CV / Resume |
-| 🎨 Design Style | Futuristic · System Dashboard · Cyber Terminal |
-| 🎯 Purpose | Modern developer identity & professional visibility |
-| 🌍 Target Audience | Recruiters, engineering teams, open-source collaborators |
-
-**Why this approach?**
-
-Traditional GitHub READMEs are static and forgettable. This profile is structured like a **live engineering interface** — designed to communicate technical depth, professional credibility, and personal brand at a glance. Every section is intentional: recruiters can scan it in seconds, while engineers can dive into project details and stack specifics.
-
-> *"Your GitHub profile is your public engineering identity — make it count."*

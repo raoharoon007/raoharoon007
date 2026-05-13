@@ -166,18 +166,6 @@ Optimization
 ---
 ## 🚢 AFG Global Shipping System
 
-> **Category:** Logistics · Frontend Engineering · Agile
-
-```yaml
-STACK:
-  - Vue.js
-  - Git
-
-STATUS: 🔒 Internal / Private
-```
-
-Frontend module for a shipping management platform built during internship experience.
-
 ```text
 • Contributed to a multi-module logistics frontend
 • Built reusable UI components using Vue.js
@@ -185,9 +173,10 @@ Frontend module for a shipping management platform built during internship exper
 • Assisted in frontend architecture and feature integration
 • Maintained clean and scalable frontend structure
 ```
----
+
 🌐 https://afgshipping.com/
 
+---
 ## 📄 Document Classification Using OCR (FYP)
 
 ```text

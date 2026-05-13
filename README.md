@@ -1,154 +1,434 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- SYSTEM BOOT — RAO MUHAMMAD HAROON // FRONTEND ENGINEER v2.0.25          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Rao+Muhammad+Haroon;Frontend+Engineer+%7C+React+%26+Next.js;Building+Fast%2C+Beautiful+Web+Apps;Open+to+Exciting+Opportunities" alt="Typing SVG" />
+
+<!-- ANIMATED HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=400&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=%5B+SYSTEM+INITIALIZING...+%5D;%5B+LOADING+DEVELOPER+PROFILE+%5D;%5B+ALL+SYSTEMS+NOMINAL+%E2%9C%94+%5D" alt="Boot Sequence" />
+
 <br/>
-<!-- Status Badges -->
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FF9C?style=for-the-badge&labelColor=0D0D0D)
-![Location](https://img.shields.io/badge/LOCATION-ISLAMABAD%2C%20PK-F5A623?style=for-the-badge&labelColor=0D0D0D)
-![Role](https://img.shields.io/badge/ROLE-FRONTEND%20DEVELOPER-00FF9C?style=for-the-badge&labelColor=0D0D0D)
-![Open To Work](https://img.shields.io/badge/OPEN%20TO-NEW%20ROLES-F5A623?style=for-the-badge&labelColor=0D0D0D)
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=80&lines=RAO+MUHAMMAD+HAROON;FRONTEND+ENGINEER" alt="Name Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=F5A623&center=true&vCenter=true&width=700&height=45&lines=React.js+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Building+interfaces+that+think+%26+perform" alt="Stack Tagline" />
+
+<br/>
+
+<!-- BADGES ROW -->
+<a href="https://linkedin.com/in/rao-haroon">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/raoharoon007">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://raoharoon-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+&nbsp;
+<a href="mailto:raoharoon007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FF9C?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-F5A623?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-00FF9C?style=flat-square&labelColor=0d1117"/>
+
 </div>
+
 ---
+
+<!-- ═══════════════════════════ SYSTEM OVERVIEW ════════════════════════════ -->
+
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║              [ DEVELOPER IDENTITY SYSTEM — v2025.1 ]                ║
-║              RAO MUHAMMAD HAROON :: FRONTEND ENGINEER               ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SYSTEM  ▸  DEVELOPER PROFILE INTERFACE                                     ║
+║  MODULE  ▸  ABOUT ME                                                        ║
+║  STATUS  ▸  ██████████████████████████████ OPERATIONAL                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
-👨‍💻 About Me
-> *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
-I'm a Frontend Developer based in Islamabad, Pakistan — passionate about crafting responsive, high-performance web experiences. I specialize in React.js and Next.js, with a sharp eye for detail and a love for pixel-perfect UI. Currently growing my skills at Interactive Robust Solutions, where I turn Figma designs into living, breathing interfaces.
-🎓 BS Computer Science — Institute of Space Technology (2019–2023)
-💼 Currently: Junior Frontend Developer @ Interactive Robust Solutions
-🔭 Building: AI-powered web tools and real-time voice/chat systems
-⚡ Obsession: Performance optimization & component-based architecture
-📬 Reach me: raoharoon007@gmail.com
+
+## ⚡ IDENTITY CORE
+
+> **Frontend Engineer** specializing in high-performance, visually polished web applications built with **React.js**, **Next.js**, and **TypeScript**. I architect component-driven UIs, integrate complex backend systems, and translate design visions into pixel-perfect, production-ready experiences.
+
+Graduated in **Computer Science from Institute of Space Technology, Islamabad (2023)**, I've shipped real-world applications across healthcare AI, compliance systems, logistics, and SaaS — always with a focus on **clean code, performance, and developer experience**.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  > whoami                                               │
+│  ├── Role       : Junior Frontend Developer             │
+│  ├── Company    : Interactive Robust Solutions, ISB     │
+│  ├── Experience : React · Next.js · TypeScript          │
+│  ├── Education  : B.Sc. CS — Institute of Space Tech    │
+│  └── Contact    : raoharoon007@gmail.com                │
+└─────────────────────────────────────────────────────────┘
+```
+
 ---
-🛠️ Tech Stack & Arsenal
+
+<!-- ═══════════════════════════ TECH STACK ═════════════════════════════════ -->
+
 ```
-[ LANGUAGE CORE ]──────────────────────────────────────────────────────
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  MODULE  ▸  TECH STACK & CAPABILITY MAP                                     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-```
-[ FRONTEND FRAMEWORKS ]────────────────────────────────────────────────
-```
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-```
-[ STYLING & UI ]───────────────────────────────────────────────────────
-```
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-```
-[ STATE & DATA ]───────────────────────────────────────────────────────
-```
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-```
-[ TOOLS & WORKFLOW ]───────────────────────────────────────────────────
-```
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
----
-🚀 Projects — Deployed & Live
-```
-[ PROJECT MANIFEST ]───────────────────────────────────────────────────
-```
-🩺 AI Health Web Assistant
-> Real-time AI-powered health assistant with voice and chat capabilities
-Module	Tech Used
-🎙️ Voice Streaming	Web Audio API
-🔐 Authentication	JWT
-🖼️ Medical Imaging	AI Integration
-🎨 UI Framework	React.js
-🔗 Live: ai-health-assistant-web.vercel.app
----
-🌐 BR Funnels — Landing Page
-> High-converting, responsive marketing page with optimized performance
-Module	Tech Used
-⚡ Framework	Next.js
-🎨 Styling	Tailwind CSS
-📱 Design	Mobile-first responsive
-📈 Focus	UI/UX + Performance
-🔗 Live: br-funnels-web.vercel.app
----
-📄 Document Classification System (FYP)
-> Automated intelligent document sorter using OCR technology
-Module	Tech Used
-🔍 Core Engine	OCR (Optical Character Recognition)
-🗂️ Classification	Intelligent sorting algorithms
-🖥️ Interface	Custom-built document UI
-📉 Impact	Significant reduction in manual effort
----
-🏛️ Evaluation Management System (Common Criteria Pakistan Lab)
-> Enterprise-grade evaluation workflow system for ISO-certified lab operations
-Module	Tech Used
-🖥️ Frontend	React.js
-⚙️ Backend	PHP
-🗄️ Database	MySQL
-📋 Compliance	ISO 27001 · ISO/IEC 17025 · ISO 9001
----
-⚡ Active Engineering Focus
-```
-[ CURRENT SYSTEM MODULES ]─────────────────────────────────────────────
-```
-```
-▶  Real-time voice streaming .............. [Web Audio API]    [ACTIVE]
-▶  JWT auth systems ....................... [Security Layer]   [ACTIVE]
-▶  Figma → Pixel-perfect UI .............. [Tailwind CSS]     [ACTIVE]
-▶  FastAPI integration .................... [Axios + REST]     [ACTIVE]
-▶  Performance optimization ............... [Core Web Vitals]  [ACTIVE]
-▶  Component-based architecture ........... [React + Hooks]    [ACTIVE]
-```
----
-📊 GitHub Stats Dashboard
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raoharoon007&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF9C&icon_color=F5A623&text_color=FFFFFF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raoharoon007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FF9C&text_color=FFFFFF)
-![GitHub Streak](https://streak-stats.demolab.com?user=raoharoon007&theme=dark&hide_border=true&background=0D0D0D&ring=00FF9C&fire=F5A623&currStreakLabel=00FF9C)
+
+## 🛠️ TECH STACK
+
+### ▸ Languages
+
+<div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
----
-🧬 Contribution Graph
-<div align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raoharoon007&bg_color=0D0D0D&color=00FF9C&line=F5A623&point=FFFFFF&area=true&hide_border=true)
+
+### ▸ Frontend Frameworks & Libraries
+
+<div>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 </div>
----
-📡 Contact & Connect
-```
-[ COMMUNICATION CHANNELS ]─────────────────────────────────────────────
-```
-<div align="center">
-![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-raoharoon--portfolio.vercel.app-00FF9C?style=for-the-badge&labelColor=0D0D0D)
-![LinkedIn](https://img.shields.io/badge/LINKEDIN-rao--haroon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)
-![GitHub](https://img.shields.io/badge/GITHUB-raoharoon007-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)
-![Email](https://img.shields.io/badge/EMAIL-raoharoon007@gmail.com-F5A623?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)
-![Phone](https://img.shields.io/badge/PHONE-+92_333_0508624-00FF9C?style=for-the-badge&labelColor=0D0D0D)
+
+### ▸ UI / Styling
+
+<div>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
+
+### ▸ State Management & Data Fetching
+
+<div>
+<img src="https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+</div>
+
+### ▸ Backend Integration & Tools
+
+<div>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/REST_APIs-F5A623?style=for-the-badge&logo=json&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+</div>
+
+### ▸ Dev Tools
+
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
 ---
-🧬 How This Profile Was Generated
-> This developer profile was engineered using **AI-based structuring** from Rao Muhammad Haroon's official CV.
-> It is designed to represent a modern, professional **developer identity system** — not a static resume page.
-> The goal: maximize recruiter engagement, showcase real skills, and present a structured technical brand on GitHub.
->
-> *Profile designed with AI assistance · Powered by real experience · Built for global visibility*
+
+<!-- ═══════════════════════════ EXPERIENCE ════════════════════════════════ -->
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  MODULE  ▸  ENGINEERING MISSION LOG                                         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 🚀 MISSION LOG — WORK EXPERIENCE
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  MISSION 01 — JUNIOR FRONTEND DEVELOPER
+  ORG     : Interactive Robust Solutions — Islamabad, PK
+  PERIOD  : Nov 2025 → Present
+  STATUS  : 🟢 ACTIVE
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+- 🔧 Built high-performance SPAs using **React.js, Next.js, and Vite**
+- 🎨 Converted Figma designs into pixel-perfect, responsive UIs with **Tailwind CSS**
+- 🔌 Integrated **FastAPI** backend services via **Axios** with JWT authentication
+- 🧩 Architected scalable frontends with **React Hooks and Context API**
+- 📋 Built dynamic, validated forms using **React Hook Form + Yup**
+- 🎙️ Developed real-time voice streaming features using the **Web Audio API**
+
 ---
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  MISSION 02 — DEVELOPMENT FELLOW (PROGRAMMING)
+  ORG     : Common Criteria Pakistan Lab — Islamabad, PK
+  PERIOD  : Jul 2024 → Jun 2025
+  STATUS  : ✅ COMPLETED
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+- 📊 Developed an **Evaluation Management System** using React.js and PHP
+- 🔄 Designed automated workflows for evaluation and reporting processes
+- 🔐 Ensured systems met **ISO 27001, ISO/IEC 17025, and ISO 9001** standards
+- 🗄️ Managed secure data storage with **MySQL**
+
+---
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  MISSION 03 — FRONTEND INTERN (React + Vue)
+  ORG     : The Revolution Technologies — Rawalpindi, PK
+  PERIOD  : Apr 2024 → Jul 2024
+  STATUS  : ✅ COMPLETED
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+- 💻 Built responsive web apps using **React.js and Vue.js**
+- 🚢 Contributed to frontend development of a **shipping management system**
+- 🤝 Worked in an agile team environment using **Git-based workflows**
+
+---
+
+<!-- ═══════════════════════════ PROJECTS ══════════════════════════════════ -->
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  MODULE  ▸  DEPLOYED PROJECT REGISTRY                                       ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 🧪 PROJECT REGISTRY
+
+---
+
+### `[01]` 🩺 AI Health Web Assistant
+
+> **Category:** Healthcare AI · Real-time Systems · Authentication
+
+```
+STACK   ▸  React.js · Web Audio API · JWT · FastAPI
+DEPLOY  ▸  Vercel
+URL     ▸  ai-health-assistant-web.vercel.app
+STATUS  ▸  🟢 LIVE
+```
+
+A full-stack AI-powered health assistant with real-time chat, voice streaming, and medical image analysis.
+
+- 🎙️ Real-time **voice streaming** using the Web Audio API
+- 🔐 Secure authentication pipeline using **JWT**
+- 🖼️ Medical image upload + AI interaction interface
+- 💬 Conversational health assistant with live response rendering
+
+🔗 [**Launch App →**](https://ai-health-assistant-web.vercel.app)
+
+---
+
+### `[02]` 📈 BR Funnels — Landing Page
+
+> **Category:** SaaS · Marketing · Performance UI
+
+```
+STACK   ▸  Next.js · Tailwind CSS
+DEPLOY  ▸  Vercel
+URL     ▸  br-funnels-web.vercel.app
+STATUS  ▸  🟢 LIVE
+```
+
+A conversion-optimized SaaS landing page built for performance and design precision.
+
+- ⚡ Lighthouse-optimized **Next.js** architecture
+- 📱 Fully responsive, pixel-perfect layout from Figma
+- 🎯 UX-tuned for high conversion flows
+
+🔗 [**View Project →**](https://br-funnels-web.vercel.app)
+
+---
+
+### `[03]` 🚢 AFG Global Shipping System
+
+> **Category:** Logistics · Frontend Engineering · Agile
+
+```
+STACK   ▸  React.js · Vue.js · Git
+STATUS  ▸  🔒 Internal / Private
+```
+
+Frontend module for a shipping management platform built during my internship.
+
+- 🔄 Contributed to a **multi-module logistics frontend**
+- 🧩 Component-driven architecture with **Vue.js**
+- 🤝 Developed in a collaborative, agile sprint workflow
+
+---
+
+### `[04]` 📄 Document Classification using OCR *(Final Year Project)*
+
+> **Category:** AI · OCR · Automation
+
+```
+STACK   ▸  Python · OCR Engine · React.js UI
+STATUS  ▸  ✅ Completed (FYP)
+```
+
+An intelligent document processing system that automatically classifies scanned documents using OCR.
+
+- 🔍 Automated **document classification** via Optical Character Recognition
+- 🖥️ Custom React.js UI for document upload and result visualization
+- ⚙️ Reduced manual document sorting effort significantly through intelligent automation
+
+---
+
+<!-- ═══════════════════════════ ACTIVE FOCUS ══════════════════════════════ -->
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  MODULE  ▸  ACTIVE ENGINEERING FOCUS                                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 🎯 ACTIVE ENGINEERING FOCUS
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   ██ DEEPENING  ──  Next.js App Router · TypeScript patterns            │
+│   ██ EXPLORING  ──  TanStack Query · Advanced state architecture        │
+│   ██ BUILDING   ──  AI-integrated web interfaces                        │
+│   ██ TARGETING  ──  Senior Frontend Engineering roles                   │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+| Focus Area | Current Level | Goal |
+|---|---|---|
+| React.js / Next.js | ████████░░ Advanced | Full-Stack Next.js Expert |
+| TypeScript | ███████░░░ Intermediate | Production-Grade TS Architect |
+| UI Performance | ████████░░ Advanced | Core Web Vitals Mastery |
+| AI Integration | ██████░░░░ Growing | AI-First Product Engineer |
+
+---
+
+<!-- ═══════════════════════════ GITHUB STATS ══════════════════════════════ -->
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  MODULE  ▸  LIVE TELEMETRY — GITHUB ANALYTICS                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 📊 GITHUB TELEMETRY
+
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raoharoon007&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=F5A623&text_color=ffffff&border_radius=10" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoharoon007&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=ffffff&border_radius=10" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raoharoon007&theme=merko&hide_border=true&background=0d1117&ring=00FF9C&fire=F5A623&currStreakLabel=00FF9C&border_radius=10" height="165"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ CONTRIBUTION GRAPH ════════════════════════ -->
+
+## 🌐 CONTRIBUTION GRID
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raoharoon007&bg_color=0d1117&color=00FF9C&line=F5A623&point=ffffff&area=true&hide_border=true&border_radius=10" width="100%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ CONTACT ══════════════════════════════════ -->
+
 ```
-╔══════════════════════════════════════════════════════════╗
-║     RAO MUHAMMAD HAROON :: FRONTEND ENGINEER             ║
-║     [ SYSTEM ONLINE ] ··· [ READY TO BUILD ] ···        ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  MODULE  ▸  CONTACT UPLINK                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+## 📡 CONTACT UPLINK
+
+```
+> Initiating secure channel...
+
+  📧  Email      ──  raoharoon007@gmail.com
+  📞  Phone      ──  +92 333 050 8624
+  🔗  LinkedIn   ──  linkedin.com/in/rao-haroon
+  🐙  GitHub     ──  github.com/raoharoon007
+  🌐  Portfolio  ──  raoharoon-portfolio.vercel.app
+
+> Channel ready. Send transmission.
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raoharoon007@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rao-haroon)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://raoharoon-portfolio.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=%5B+PROFILE+SESSION+COMPLETE+%5D;%5B+THANKS+FOR+VISITING+//+LET'S+BUILD+SOMETHING+%5D" alt="Footer" />
+
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=raoharoon007&color=00FF9C&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
+
+---
+
+## 🧬 How This Profile Was Generated
+
+This GitHub profile README was generated using **AI-based structuring and developer branding engineering**.
+
+| Property | Detail |
+|---|---|
+| 🤖 AI Engine | Claude (Anthropic) |
+| 📄 Source Data | Rao Haroon's CV / Resume |
+| 🎨 Design Style | Futuristic · System Dashboard · Cyber Terminal |
+| 🎯 Purpose | Modern developer identity & professional visibility |
+| 🌍 Target Audience | Recruiters, engineering teams, open-source collaborators |
+
+**Why this approach?**
+
+Traditional GitHub READMEs are static and forgettable. This profile is structured like a **live engineering interface** — designed to communicate technical depth, professional credibility, and personal brand at a glance. Every section is intentional: recruiters can scan it in seconds, while engineers can dive into project details and stack specifics.
+
+> *"Your GitHub profile is your public engineering identity — make it count."*

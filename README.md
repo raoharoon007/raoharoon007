@@ -56,7 +56,7 @@
 
 ## ⚡ IDENTITY CORE
 
-> **Frontend Engineer** specializing in high-performance, visually polished web applications built with **React.js**, **Next.js**, and **TypeScript**. I architect component-driven UIs, integrate complex backend systems, and translate design visions into pixel-perfect, production-ready experiences.
+> **Frontend Developer** specializing in high-performance, visually polished web applications built with **React.js**, **Next.js**, and **TypeScript**. I architect component-driven UIs, integrate complex backend systems, and translate design visions into pixel-perfect, production-ready experiences.
 
 Graduated in **Computer Science from Institute of Space Technology, Islamabad (2023)**, I've shipped real-world applications across healthcare AI, compliance systems, logistics, and SaaS — always with a focus on **clean code, performance, and developer experience**.
 

@@ -169,7 +169,7 @@ Graduated in **Computer Science from Institute of Space Technology, Islamabad (2
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
   MISSION 01 — JUNIOR FRONTEND DEVELOPER
   ORG     : Interactive Robust Solutions — Islamabad, PK
-  PERIOD  : Nov 2025 → Present
+  PERIOD  : Nov 2025 → Jun 2026
   STATUS  : 🟢 ACTIVE
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
